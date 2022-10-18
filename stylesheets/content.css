@@ -1,0 +1,274 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 1440px;
+  font-family: "NWTBodoniRegular";
+  overflow-x: hidden;
+}
+
+section {
+  position: relative;
+}
+
+/* шапка с названием и числами */
+.flex {
+  display: flex;
+
+}
+.nach {
+  margin-top: 70px;
+}
+.T_razdel1 {
+  position: relative;
+  width: 383px;
+  height: 75px;
+  left: 551px;
+  top: 105px;
+
+  font-family: 'NWT Bodoni';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+}
+.T_razdel2 {
+  position: relative;
+  width: 383px;
+  height: 75px;
+  left: 524px;
+  top: 105px;
+
+  font-family: 'NWT Bodoni';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+}
+.brt, .brr, .brb {
+  position: relative;
+}
+.brt {
+  position: absolute;
+width: 119px;
+height: 0px;
+left: 924px;
+top: 105px;
+
+border: 4px solid #000000;
+
+}
+.brr {
+  position: absolute;
+  width: 6px;
+  height: 40px;
+  left: 1045px;
+  top: 113px;
+
+  background: #000000;
+}
+.brb {
+  position: absolute;
+ width: 119px;
+ height: 0px;
+ left: 924px;
+ top: 148px;
+
+ border: 4px solid #000000;
+}
+.blt, .bll, .blb {
+  position: absolute;
+}
+.blt {
+  width: 119px;
+  height: 0px;
+  left: 381px;
+  top: 105px;
+
+  border: 4px solid #000000;
+}
+.bll {
+
+  width: 6px;
+  height: 39px;
+  left: 381px;
+  top: 113px;
+
+  background: #000000;
+}
+.blb {
+
+  width: 119px;
+  height: 0px;
+  left: 381px;
+  top: 148px;
+
+  border: 4px solid #000000;
+}
+
+
+
+/* титульный экран */
+.Decor1 {
+  position: relative;
+  width: 1295px;
+  height: 258px;
+  left: 71px;
+  top: 38px;
+}
+.Decor2 {
+  position: relative;
+  width: 1295px;
+  height: 231px;
+  left: 71px;
+}
+.NWTtitle {
+  position: relative;
+  width: 546px;
+  height: 179px;
+  left: 445px;
+  margin-top: 45px;
+
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 225.259px;
+  line-height: 232px;
+}
+.Bodonititle {
+  position: relative;
+  width: 757px;
+  height: 192px;
+  left: 340px;
+  margin-top: 45px;
+
+
+  font-family: 'NWT Bodoni';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 225.259px;
+  line-height: 232px;
+
+  color: #000000;
+}
+
+
+
+/* о шрифте */
+.nr {
+  position: absolute;
+  width: 64px;
+  height: 57px;
+  left: 80px;
+  top: 105px;
+
+  font-family: 'NWT Bodoni';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 156.41%;
+/* or 75px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.nl {
+  position: absolute;
+  width: 64px;
+  height: 57px;
+  left: 1290px;
+  top: 105px;
+
+  font-family: 'NWT Bodoni';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 156.41%;
+/* or 75px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+/* о шрифте: содержание */
+
+
+.P_razdel1 {
+  position: relative;
+  width: 964px;
+  height: 609px;
+  left: 148px;
+  top: 14px;
+
+  font-family: 'NWT Bodoni';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 156.41%;
+/* or 50px */
+
+  display: flex;
+  align-items: center;
+
+}
+/* о шрифте: нижний орнамент */
+.L_left1, .L_left2, .L_right1, .L_right2 {
+  position: absolute;
+  width: 410px;
+  height: 0px;
+  border: 1.5px solid #000000;
+
+}
+.L_left1, .L_right1 {
+  top: 680px;
+}
+.L_left2, .L_right2 {
+  top: 690px;
+  margin-bottom: 90px;
+}
+.L_left1, .L_left2 {
+  left: 69.5px;
+}
+.L_right1, .L_right2 {
+  left: 938px;
+}
+.bottomuzor{
+  position: absolute;
+  top: 634px;
+  left: 517px;
+}
+.bottomuzorW {
+  position: absolute;
+  top: 525px;
+  left: 639px;
+  font-family: 'NWT Bodoni';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 209.246px;
+  line-height: 156.41%;
+/* or 327px */
+
+  display: flex;
+  align-items: center;
+
+}
+
+
+
+
+/* начертания: содержание */
+.card {
+  box-sizing: border-box;
+
+  position: relative;
+  width: 1279px;
+  height: 764px;
+  left: 79px;
+  top: 150px;
+
+  border: 3px solid #000000;
+}

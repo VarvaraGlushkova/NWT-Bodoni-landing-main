@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "NWTBodoniRegular";
+    src: url("../fonts/NWTBodoniRegular/NWTBodoniRegular.eot");
+    src: url("../fonts/NWTBodoniRegular/NWTBodoniRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/NWTBodoniRegular/NWTBodoniRegular.woff") format("woff"),
+    url("../fonts/NWTBodoniRegular/NWTBodoniRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "NWTBodoniBold";
+    src: url("../fonts/NWTBodoniBold/NWTBodoniBold.eot");
+    src: url("../fonts/NWTBodoniBold/NWTBodoniBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/NWTBodoniBold/NWTBodoniBold.woff") format("woff"),
+    url("../fonts/NWTBodoniBold/NWTBodoniBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NWTBodoniItalic";
+    src: url("../fonts/NWTBodoniItalic/NWTBodoniItalic.eot");
+    src: url("../fonts/NWTBodoniItalic/NWTBodoniItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/NWTBodoniItalic/NWTBodoniItalic.woff") format("woff"),
+    url("../fonts/NWTBodoniItalic/NWTBodoniItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: normal;
+}

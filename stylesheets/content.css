@@ -262,6 +262,99 @@ border: 4px solid #000000;
 
 
 /* начертания: содержание */
+.Decor3{
+  position: absolute;
+  top: 260px;
+  left: 132px;
+}
+.TextReg{
+  display: flex;
+  position: absolute;
+  top: 501px;
+  left: 198px;
+  font-family: "NWTBodoniRegular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 41px;
+}
+.TextItal{
+  display: flex;
+  position: absolute;
+  top: 593px;
+  left: 198px;
+  font-family: "NWTBodoniItalic";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 41px;
+}
+.TextBold{
+  display: flex;
+  position: absolute;
+  top: 685px;
+  left: 198px;
+  font-family: "NWTBodoniBold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 41px;
+}
+.fst, .sec, .third {
+  left: 1160px;
+}
+.line1, .line2, .line3 {
+  position: absolute;
+  border: 1.87942px solid #000000;
+}
+.line1 {
+  width: 557px;
+  height: 0px;
+  top: 520px;
+  left: 586px;
+}
+.line2 {
+  width: 680px;
+  height: 0px;
+  top: 610px;
+  left: 466px;
+}
+.line3 {
+  width: 520px;
+  height: 0px;
+  top: 702px;
+  left: 625px;
+}
+.dot {
+  position: absolute;
+  width: 156px;
+  height: 215px;
+  left: 146px;
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 164.972px;
+  line-height: 170px;
+
+  color: #000000;
+}
+.od {
+  top:406px ;
+
+}
+.dwa {
+  top:505px ;
+
+}
+.tr {
+  top:595px ;
+
+}
+.Decor4 {
+  position: absolute;
+  top: 769px;
+  left: 191px;
+}
 .card {
   box-sizing: border-box;
 

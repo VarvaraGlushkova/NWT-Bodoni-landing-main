@@ -32,7 +32,7 @@ section {
   line-height: 66px;
 }
 .T_razdel2 {
-  position: relative;ы
+  position: relative;
   width: 383px;
   height: 75px;
   left: 524px;
@@ -44,9 +44,7 @@ section {
   font-size: 64px;
   line-height: 66px;
 }
-.brt, .brr, .brb {
-  position: relative;
-}
+
 .brt {
   position: absolute;
 width: 119px;
@@ -142,6 +140,458 @@ border: 4px solid #000000;
 
   color: #000000;
 }
+
+/* шапка белого цвета */
+.bltwhite, .bllwhite, .blbwhite, .brtwhite, .brrwhite, .brbwhite {
+  position: absolute;
+
+}
+.bltwhite, .brtwhite {
+  top:280px;
+}
+.bllwhite, .brrwhite {
+  top: 285px;
+}
+.blbwhite, .brbwhite {
+  top: 322px;
+}
+.brtwhite {
+  position: absolute;
+width: 119px;
+height: 0px;
+left: 924px;
+
+
+border: 4px solid #FFFFFF;
+
+}
+.brrwhite {
+  position: absolute;
+  width: 6px;
+  height: 40px;
+  left: 1045px;
+
+
+  background: #FFFFFF;
+}
+.brbwhite {
+  position: absolute;
+ width: 119px;
+ height: 0px;
+ left: 924px;
+
+
+ border: 4px solid #FFFFFF;
+}
+.bltwhite {
+  width: 119px;
+  height: 0px;
+  left: 381px;
+
+
+  border: 4px solid #FFFFFF;
+}
+.bllwhite {
+
+  width: 6px;
+  height: 39px;
+  left: 381px;
+
+
+  background: #FFFFFF;
+}
+.blbwhite {
+
+  width: 119px;
+  height: 0px;
+  left: 381px;
+
+
+  border: 4px solid #FFFFFF;
+}
+.T_razdel3 {
+  position: relative;
+  top: 271px;
+  left: 571px;
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+
+  color: #FFFFFF;
+
+}
+.nrwhite, .nlwhite {
+  position: absolute;
+  width: 64px;
+  height: 57px;
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 156.41%;
+/* or 75px */
+
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+
+}
+.nrwhite{
+  left: 80px;
+  top: 283px;
+}
+.nlwhite {
+  left: 1290px;
+  top: 283px;
+}
+.T_razdel4 {
+  position: absolute;
+  width: 383px;
+  height: 75px;
+  left: 513px;
+  top: 1612px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+  color: #FFFFFF;
+}
+.bltwhite_four, .bllwhite_four, .blbwhite_four, .brtwhite_four, .brrwhite_four, .brbwhite_four {
+  position: absolute;
+}
+.bltwhite_four, .brtwhite_four {
+  top:1611px;
+}
+.bllwhite_four, .brrwhite_four {
+  top: 1616px;
+}
+.blbwhite_four, .brbwhite_four {
+  top: 1655px;
+}
+.brtwhite_four {
+  position: absolute;
+width: 119px;
+height: 0px;
+left: 924px;
+
+
+border: 4px solid #FFFFFF;
+
+}
+.brrwhite_four {
+  position: absolute;
+  width: 6px;
+  height: 40px;
+  left: 1045px;
+
+
+  background: #FFFFFF;
+}
+.brbwhite_four {
+  position: absolute;
+ width: 119px;
+ height: 0px;
+ left: 924px;
+
+
+ border: 4px solid #FFFFFF;
+}
+.bltwhite_four {
+  width: 119px;
+  height: 0px;
+  left: 381px;
+
+
+  border: 4px solid #FFFFFF;
+}
+.bllwhite_four {
+
+  width: 6px;
+  height: 39px;
+  left: 381px;
+
+
+  background: #FFFFFF;
+}
+.blbwhite_four {
+
+  width: 119px;
+  height: 0px;
+  left: 381px;
+
+
+  border: 4px solid #FFFFFF;
+}
+.nrwhite_four, .nlwhite_four {
+  position: absolute;
+  top: 1609px;
+  width: 64px;
+  height: 57px;
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 156.41%;
+/* or 75px */
+
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+
+}
+.nrwhite_four{
+  left: 80px;
+
+}
+.nlwhite_four {
+  left: 1290px;
+
+}
+
+
+
+
+.brt5, .brb5, .blt5, .blb5 {
+  border: 4px solid #000000;
+  width: 119px;
+  height: 0px;
+}
+.brt5 {
+  left: 924px;
+  top: 3294px;
+}
+.brr5 {
+  width: 6px;
+  height: 40px;
+  left: 1045px;
+  top: 3300px;
+
+  background: #000000;
+}
+.brb5 {
+ left: 924px;
+ top: 3337px;
+}
+.blt5, .bll5, .blb5, .brt5, .brr5, .brb5 {
+  position: absolute;
+}
+.blt5 {
+  left: 381px;
+  top: 3294px;
+}
+.bll5 {
+  width: 6px;
+  height: 39px;
+  left: 381px;
+  top: 3300px;
+
+  background: #000000;
+}
+.blb5 {
+  left: 381px;
+  top: 3337px;
+}
+.nr5 {
+  position: absolute;
+  width: 64px;
+  height: 57px;
+  left: 80px;
+  top: 3290px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 156.41%;
+/* or 75px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.nl5 {
+  position: absolute;
+  width: 64px;
+  height: 57px;
+  left: 1290px;
+  top: 3290px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 156.41%;
+/* or 75px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.T_razdel5 {
+  position: absolute;
+  width: 383px;
+  height: 75px;
+  left: 612px;
+  top: 3294px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+  color: #000000;
+}
+
+.T_razdel6 {
+  position: absolute;
+  width: 383px;
+  height: 75px;
+  left: 580px;
+  top: 3294px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+  color: #000000;
+}
+
+
+.T_razdel7 {
+  position: absolute;
+  width: 383px;
+  height: 75px;
+  left: 599px;
+  top: 4790px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+  color: #FFFFFF;
+}
+.bltwhite_s, .bllwhite_s, .blbwhite_s, .brtwhite_s, .brrwhite_s, .brbwhite_s {
+  position: absolute;
+}
+.bltwhite_s, .brtwhite_s {
+  top:4790px;
+}
+.bllwhite_s, .brrwhite_s {
+  top: 4793px;
+}
+.blbwhite_s, .brbwhite_s {
+  top: 4830px;
+}
+.brtwhite_s {
+  position: absolute;
+width: 119px;
+height: 0px;
+left: 924px;
+
+
+border: 4px solid #FFFFFF;
+
+}
+.brrwhite_s {
+  position: absolute;
+  width: 6px;
+  height: 40px;
+  left: 1045px;
+
+
+  background: #FFFFFF;
+}
+.brbwhite_s {
+  position: absolute;
+ width: 119px;
+ height: 0px;
+ left: 924px;
+
+
+ border: 4px solid #FFFFFF;
+}
+.bltwhite_s {
+  width: 119px;
+  height: 0px;
+  left: 381px;
+
+
+  border: 4px solid #FFFFFF;
+}
+.bllwhite_s {
+
+  width: 6px;
+  height: 39px;
+  left: 381px;
+
+
+  background: #FFFFFF;
+}
+.blbwhite_s {
+
+  width: 119px;
+  height: 0px;
+  left: 381px;
+
+
+  border: 4px solid #FFFFFF;
+}
+.nrwhite_s, .nlwhite_s {
+  position: absolute;
+  top: 4800px;
+  width: 64px;
+  height: 57px;
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 156.41%;
+/* or 75px */
+
+  display: flex;
+  align-items: center;
+
+  color: #FFFFFF;
+
+}
+.nrwhite_s{
+  left: 80px;
+
+}
+.nlwhite_s {
+  left: 1290px;
+
+}
+.T_razdel8 {
+  position: absolute;
+  width: 383px;
+  height: 75px;
+  left: 518px;
+  top: 3290px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 66px;
+  color: #000000;
+}
+
+
+
+
+
+
 
 
 
@@ -261,6 +711,8 @@ border: 4px solid #000000;
 
 
 
+/* начертания */
+
 /* начертания: содержание */
 .Decor3{
   position: absolute;
@@ -365,4 +817,793 @@ border: 4px solid #000000;
   top: 150px;
 
   border: 3px solid #000000;
+}
+
+/* лигатуры */
+
+/* лигатуры содержание */
+
+.background1 {
+  position: absolute;
+  width: 1440px;
+  height: 3162px;
+  left: 0px;
+  top: 173px;
+
+  background: #000000;
+}
+.LigaturesAB {
+  position: absolute;
+  width: 950px;
+  height: 101px;
+  left: 144px;
+  top: 435px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 120%;
+/* or 31px */
+  color: #FFFFFF;
+
+}
+.Ligatures {
+  position: absolute;
+  top: 530px;
+  left: 106px;
+  z-index: 2;
+}
+.LigaturesAB2 {
+  position: absolute;
+  width: 950px;
+  height: 101px;
+  left: 144px;
+  top: 1450px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 120%;
+/* or 31px */
+
+
+  color: #FFFFFF;
+}
+
+
+
+
+/* особенности */
+
+/* особенности содержание */
+
+.OsobenostTXT {
+  position: absolute;
+  width: 1066px;
+  height: 90px;
+  left: 144px;
+  top: 1758px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 120%;
+  /* or 31px */
+
+
+  color: #FFFFFF;
+}
+.VertLine {
+  position: absolute;
+  width: 688px;
+  height: 85px;
+  left: 202px;
+  top: 1901px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 156.41%;
+  /* or 63px */
+
+
+  color: #FFFFFF;
+}
+.FlatSer {
+  position: absolute;
+  width: 381px;
+  height: 64px;
+  left: 1014px;
+  top: 2048px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 156.41%;
+  /* or 63px */
+
+
+  color: #FFFFFF;
+}
+.Contrast {
+  position: absolute;
+  width: 682px;
+  height: 82px;
+  left: 741px;
+  top: 2809px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 156.41%;
+  /* or 63px */
+
+
+  color: #FFFFFF;
+}
+.N {
+  position: absolute;
+  width: 720.54px;
+  height: 969px;
+  left: 448px;
+  top: 1955px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 745.385px;
+  line-height: 156.41%;
+/* or 1166px */
+
+
+  color: #FFFFFF;
+}
+.Recteng1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 730px;
+  height: 73px;
+  left: 114px;
+  top: 1894px;
+
+  border: 3px solid #FFFFFF;
+}
+.Recteng2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 413px;
+  height: 59px;
+  left: 971px;
+  top: 2046px;
+
+  border: 3px solid #FFFFFF;
+}
+.Recteng3 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 689px;
+  height: 75px;
+  left: 663px;
+  top: 2800px;
+
+  border: 3px solid #FFFFFF;
+}
+.StraightLine {
+  position: absolute;
+  width: 0px;
+  height: 869.5px;
+  left: 511px;
+  top: 1980px;
+
+  border: 4px solid #FFFFFF;
+}
+.Stan {
+  position: absolute;
+  width: 1277px;
+  height: 104px;
+  left: 89px;
+  top: 2425px;
+}
+.Krug {
+  position: absolute;
+  width: 196px;
+  height: 188px;
+  left: 782px;
+  top: 2100px;
+  border-radius: 100%;
+
+  border: 4.85333px dashed #FFFFFF;
+}
+.Arrow1 {
+  position: absolute;
+  width: 155px;
+  height: 125px;
+  left: 1014px;
+  top: 2122px;
+}
+.Arrow2 {
+  position: absolute;
+  width: 68px;
+  height: 247px;
+  left: 595px;
+  top: 2579px;
+}
+.Arrow3 {
+  position: absolute;
+  width: 42.74px;
+  height: 158px;
+  left: 774px;
+  top: 2635px;
+}
+
+.Nu1, .Nu2, .Nu3 ,.Nu4, .Nu5, .Nu6, .Nu7 {
+  position: absolute;
+width: 32px;
+height: 46px;
+font-family: 'NWTBodoniRegular';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 156.41%;
+/* or 75px */
+
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+}
+.Nu1 {
+left: 156px;
+top: 2377px;
+}
+.Nu2 {
+left: 351px;
+top: 2377px;
+}
+.Nu3 {
+left: 367px;
+top: 2530px;
+}
+.Nu4 {
+left: 446px;
+top: 2530px;
+}
+.Nu5 {
+left: 971px;
+top: 2377px;
+}
+.Nu6 {
+left: 1026px;
+top: 2530px;
+}
+.Nu7 {
+left: 1178px;
+top: 2530px;
+}
+
+
+/* языки */
+
+/* языки содержание */
+
+.Comp1 {
+  position: absolute;
+  width: 485px;
+  height: 91px;
+  left: 86px;
+  top: 3516px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 78px;
+  line-height: 156.41%;
+  /* or 122px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp2 {
+  position: absolute;
+  width: 815.19px;
+  height: 142.49px;
+  left: 592px;
+  top: 3445px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 104.936px;
+  line-height: 156.41%;
+  /* or 164px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp3 {
+  position: absolute;
+  width: 514.74px;
+  height: 122.61px;
+  left: 91px;
+  top: 3628px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 77.3214px;
+  line-height: 156.41%;
+  /* or 121px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp4 {
+  position: absolute;
+  width: 674.91px;
+  height: 133.66px;
+  left: 663px;
+  top: 3580px;
+
+  font-family: 'NWTBodoniItalic';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 107.145px;
+  line-height: 156.41%;
+  /* or 168px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp5 {
+  position: absolute;
+  width: 744.49px;
+  height: 237.49px;
+  left: 556px;
+  top: 3677px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 88.3673px;
+  line-height: 156.41%;
+  /* or 138px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp6 {
+  position: absolute;
+  width: 661.65px;
+  height: 212.08px;
+  left: 817px;
+  top: 3792px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 71.7985px;
+  line-height: 156.41%;
+  /* or 112px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp7 {
+  position: absolute;
+  width: 687px;
+  height: 76.28px;
+  left: 630px;
+  top: 3966px;
+
+  font-family: 'NWTBodoniItalic';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 55.2296px;
+  line-height: 57px;
+
+  color: #000000;
+}
+.Comp8 {
+  position: absolute;
+  width: 835.07px;
+  height: 124.82px;
+  left: 570.8px;
+  top: 4039px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 104.936px;
+  line-height: 156.41%;
+  /* or 164px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp9 {
+  position: absolute;
+  width: 666.07px;
+  height: 88.37px;
+  left: 686px;
+  top: 4164px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 53.0204px;
+  line-height: 156.41%;
+  /* or 83px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Comp10 {
+  position: absolute;
+  width: 397.65px;
+  height: 71.8px;
+  left: 885px;
+  top: 4270px;
+
+  font-family: 'NWTBodoniItalic';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 66.2755px;
+  line-height: 68px;
+
+  color: #000000;
+}
+
+.Num3 {
+  position: absolute;
+  width: 243px;
+  height: 571px;
+  left: 86px;
+  top: 3628px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 500px;
+  line-height: 156.41%;
+  /* or 782px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Num8 {
+  position: absolute;
+  width: 262px;
+  height: 417px;
+  left: 309px;
+  top: 3886px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 500px;
+  line-height: 156.41%;
+  /* or 782px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.Lang {
+  position: absolute;
+  width: 564px;
+  height: 155px;
+  left: 66px;
+  top: 4241px;
+
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 150px;
+  line-height: 156.41%;
+  /* or 235px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.underline1, .underline2, .underline3 {
+  position: absolute;
+  width: 569px;
+  height: 0px;
+  left: 58px;
+
+  border: 5px solid #000000;
+}
+.underline1 {
+top: 4381px;
+}
+.underline2 {
+top: 4396px;
+}
+.underline3 {
+top: 4411px;
+}
+
+/* символы */
+.Symbols {
+  position: absolute;
+  width: 1291.5px;
+  height: 1312px;
+  left: 58px;
+  top: 3420px;
+}
+.nachalo {
+  margin-top: 1300px;
+}
+
+
+/* цифры */
+
+/* цифры содержание */
+.begin {
+  top: 2900px;
+}
+.background2 {
+  position: relative;
+  width: 1440px;
+  height: 1675px;
+  left: 0px;
+  top: 4636px;
+
+  background: #000000;
+}
+.Notebook {
+  position: absolute;
+  width: 926px;
+  height: 968px;
+  left: 230px;
+  top: 5071px;
+}
+.NumTXT {
+  position: absolute;
+  width: 959px;
+  height: 101px;
+  left: 130px;
+  top: 4950px;
+
+  font-family: 'NWT Bodoni';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 120%;
+  /* or 29px */
+
+
+  color: #FFFFFF;
+}
+.Num1, .Num2, .Num3 ,.Num4, .Num5, .Num6, .Num7, .Num8, .Num9, .Num0 {
+  position: absolute;
+  width: 90px;
+  height: 184px;
+  font-family: 'NWTBodoniBold';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 200px;
+  line-height: 206px;
+
+  color: #FFFFFF;
+}
+.Num1 {
+left: 484px;
+top: 5134px;
+}
+.Num2 {
+left: 684px;
+top: 5134px;
+}
+.Num3 {
+left: 892px;
+top: 5134px;
+}
+.Num4 {
+left: 446px;
+top: 5348px;
+}
+.Num5 {
+left:684px;
+top: 5348px;
+}
+.Num6 {
+left: 892px;
+top: 5378px;
+}
+.Num7 {
+left: 446px;
+top: 5576px;
+}
+.Num8 {
+left: 669px;
+top: 5613px;
+}
+.Num9 {
+left: 892px;
+top: 5571px;
+}
+.Num0 {
+left: 661px;
+top: 5803px;
+}
+.underscore {
+  position: absolute;
+  width: 1214.5px;
+  height: 0px;
+  left: 111.5px;
+  top: 6200px;
+
+  border: 4px solid #FFFFFF;
+}
+
+/* применение */
+
+.nachallo {
+margin-top: 1550px;
+}
+.PractiseTXT {
+  position: absolute;
+  width: 613px;
+  height: 903px;
+  left: 742px;
+  top: 3540px;
+
+  font-family: 'NWTBodoniRegular';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 125%;
+  /* or 30px */
+
+
+  color: #000000;
+}
+.poster1 {
+  position: absolute;
+  width: 853px;
+  height: 958px;
+  left: 18px;
+  top: 3450px;
+}
+.poster2 {
+  position: absolute;
+  width: 622px;
+  height: 942.29px;
+  left: 733px;
+  top: 3798px;
+  z-index: 3;
+}
+.poster3 {
+  position: absolute;
+  width: 592px;
+  height: 905px;
+  left: 74px;
+  top: 4388px;
+}
+.poster4 {
+  position: absolute;
+  width: 703px;
+  height: 905px;
+  left: 690px;
+  top: 4792px;
+}
+.poster5 {
+  position: absolute;
+  width: 588px;
+  height: 919px;
+  left: 78px;
+  top: 5336px;
+}
+.poster6 {
+  position: absolute;
+  width: 622px;
+  height: 626px;
+  left: 733px;
+  top: 5728px;
+}
+.poster7 {
+  position: absolute;
+  width: 1277px;
+  height: 840px;
+  left: 78px;
+  top: 6398px;
+}
+.background3 {
+  position: absolute;
+  width: 1441px;
+  height: 283px;
+  left: -1px;
+  top: 7356px;
+
+  background: #000000;
+}
+.SurN {
+  position: absolute;
+  width: 445px;
+  height: 48px;
+  left: 87px;
+  top: 7475px;
+
+  font-family: 'NWTBodoniItalic';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 41px;
+
+  color: #FFFFFF;
+}
+.Group {
+  position: absolute;
+width: 206px;
+height: 46px;
+left: 810px;
+top: 7475px;
+
+font-family: 'NWT Bodoni';
+font-style: italic;
+font-weight: 400;
+font-size: 40px;
+line-height: 41px;
+
+color: #FFFFFF;
+
+}
+.God {
+  position: absolute;
+  width: 206px;
+  height: 46px;
+  left: 1195px;
+  top: 7475px;
+
+  font-family: 'NWT Bodoni';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 41px;
+
+  color: #FFFFFF;
+}
+.blines1, .blines2 {
+  position: absolute;
+  width: 1386px;
+  height: 0px;
+  left: 26px;
+  border: 4px solid #FFFFFF;
+}
+.blines1 {
+top: 7430px;
+}
+.blines2 {
+top: 7548px;
 }
